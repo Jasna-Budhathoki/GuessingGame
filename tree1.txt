@@ -1,0 +1,9 @@
+Is it a country in Asia?
+	Is it a country in South Asia?
+		Nepal
+		Japan
+	Is it a country in North America?
+		Is it the country with the Grand Canyon?
+			United States of America
+			Canada
+		Venezuela

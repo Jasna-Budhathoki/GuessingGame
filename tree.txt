@@ -1,0 +1,31 @@
+Is it a country in Asia?
+	Is it a country in South Asia?
+		Is it a country with Mount Everest?
+			Nepal
+			India
+		Is it a country in South East Asia?
+			Is it a country with Marina Bay Sands?
+				Singapore
+				Malaysia
+			Is it a country in East Asia?
+				Japan
+				Russia
+	Is it a country in North America?
+		Is it the country with the Grand Canyon?
+			United States of America
+			Is it the second largest country which has the longest coastline?
+				Canada
+				Mexico
+		Is it a country in South America?
+			Is it a country with the highest waterfall in the world?
+				Venezuela
+				Argentina
+			Is it a country in Europe?
+				Is it a country with the most number of archaeological museums in the world?
+					Greece
+					Hungary
+				Is it a country in Africa?
+					Is it a country which hosted the FIFA World Cup in 2010?
+						South Africa
+						Egypt
+					New Zealand
