@@ -9,5 +9,5 @@ computer. In this version of the game, the human thinks of something and the com
 to guess it. 
 
 There are two versions of the 20 Questions guessing game. The first version has a
-pre-specified set of objects, at least 16. The second version allows an unrestricted set of
-things; it begins with the pre-specified set but allows the user to add objects to the set.
+pre-specified set of questions, at least 16. The second version allows an unrestricted set of
+things; it begins with the pre-specified set but allows the user to add questions to the set.
